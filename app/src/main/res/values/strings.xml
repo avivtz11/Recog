@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recog</string>
+    <string name="solved">" solved"</string>
+    <string name="clickToSkip">Click picture to skip</string>
+    <string name="success">Congrats! Keep going</string>
+    <string name="fail">Wrong! Try again</string>
+    <string name="finish">Finished the game! Click to restart</string>
+    <string name="last">Last picture</string>
+    <string name="whoat">Who/What is in the picture?</string>
+    <string name="btnText">Answer</string>
+</resources>

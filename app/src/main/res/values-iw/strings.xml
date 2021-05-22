@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recog</string>
+    <string name="solved">" פטורים"</string>
+    <string name="clickToSkip">לחץ על התמונה כדי לדלג</string>
+    <string name="success">כל הכבוד! המשך</string>
+    <string name="fail">טעות! נסה שוב</string>
+    <string name="finish">סיימת! לחץ על התמונה כדי להמשיך</string>
+    <string name="last">תמונה אחרונה</string>
+    <string name="whoat">מי/מה בתמונה?</string>
+    <string name="btnText">ענה</string>
+</resources>
